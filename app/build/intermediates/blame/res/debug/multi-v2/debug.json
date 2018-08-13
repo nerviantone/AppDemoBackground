@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nervian/AndroidStudioProjects/AppDemoBackground/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/nervian/AndroidStudioProjects/AppDemoBackground/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,106,161",
+                        "endColumns": "50,54,52",
+                        "endOffsets": "101,156,209"
+                    }
+                }
+            ]
+        }
+    ]
+}
